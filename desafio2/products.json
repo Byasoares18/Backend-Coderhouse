@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5,
+    "title": "Product1",
+    "description": "pulsera",
+    "price": 250,
+    "thumbnail": "img1.jpg",
+    "code": "CO1",
+    "stock": 600
+  },
+  {
+    "id": 4,
+    "title": "Product4",
+    "description": "aros",
+    "price": 250,
+    "thumbnail": "img4.jpg",
+    "code": "CO4",
+    "stock": 6000
+  }
+]
